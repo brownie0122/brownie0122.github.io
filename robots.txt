@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://brownie0122.github.io/al-folio/sitemap.xml
