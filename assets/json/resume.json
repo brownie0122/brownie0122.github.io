@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Jihyun Kim",
+    "label": "Master's student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "brownie1465@snu.ac.kr",
+    "phone": "(+82) 10-6640-1465",
+    "url": "https://brownie0122.github.io/",
+    "Research Interests": "Graphic statics, Structural optimization, Architectural geometry",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "50, Manyang-ro 8-gil, Dongjak-gu",
+      "postalCode": "06917",
+      "city": "Seoul",
+      "countryCode": "KR",
+      "region": 
     },
     "profiles": [
       {
